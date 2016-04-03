@@ -1,0 +1,2339 @@
+exit	﻿η έξοδος
+toilets	τα αποχωρητήρια
+bank	η τράπεζα
+stop	η στάση
+restaurant	το εστιατόριο
+taxi	το ταξί
+clinic	η κλινική
+Gents	Ανδρών
+pedestrian zone	ο πεζόδρομος
+roadworks	τα έργα
+airport	ο αερολιμένας
+airport	το αεροδρόμιο
+railway station	ο σταθμός
+entrance	η είσοδος
+toilets	οι τουαλέτες
+ladies	γυναίκες
+Post Office	το ταχυδρομείο
+hospital	το νοσοκομείο
+bus	το λεωφορείο
+information	η πληροφορία
+bakery	το αρτοπωλείο
+tobacconist's	το καπνοπωλείο
+butcher's	το κρεοπωλείο
+grocer's	το παντοπωλείο
+bookshop	το βιβλιοπωλείο
+stationer's	το χαρτοπωλείο
+kiosk	το περίπτερο
+OK	εντάξει
+please, not at all	παρακαλώ
+pharmacy	το φαρμακείο
+Europe	η Ευρώπη
+good evening	καλησπέρα
+to introduce	συστήνω
+you (pl)	σας
+lady	η κυρία
+gentleman	ο κύριος
+“charmed”	χαίρω πολύ
+as well, me too	επίσης
+there's, here's	να
+sorry, excuse me	συγνώμη
+evening	το βράδυ
+hello/goodbye	χαίρετε
+friend (f.)	η φίλη
+suitcase	η βαλίτσα
+passport	το διαβατήριο
+hotel	το ξενοδοχείο
+quickly	γρήγορα
+which?	ποιο;
+where?	πού;
+car	το αυτοκίνητο
+no	όχι
+certainly	μάλιστα
+journey	το ταξίδι
+aeroplane	το αεροπλάνο
+slowly	σιγά
+excuse me	με συγχωρείτε
+newspaper	η εφημερίδα
+my	μου
+your	σου
+his/her/its	του/της/του
+our	μας
+your (pl)	σας
+their	τους
+salad	η σαλάτα
+cinema	το σινεμά
+video	το βίντεο
+photograph	η φωτογραφία
+democracy	η δημοκρατία
+a Greek (man)	ο Έλληνας
+Greek woman	η Ελληνίδα
+so so	έτσι κι έτσι
+good, fine	καλός
+Greek (language)	τα ελληνικά
+orangeade	η πορτοκαλάδα
+coffee	ο καφές
+instant coff.	ο στιγμιαίος καφές
+little coffee	το καφεδάκι
+cheese	το τυρί
+tomato	η ντομάτα
+medium	μέτριος
+dry, without sugar	σκέτος
+for (preposition)	για
+toasted sandwich	το τοστ
+a, one	ένας/μία/ένα
+toast	η φρυγανιά
+lemonade	η λεμονάδα
+ice cream	το παγωτό
+lemon	το λεμόνι
+tea	το τσάι
+salami	το σαλάμι
+ham	το ζαμπόν
+water	το νερό
+pasta	η πάστα
+cucmber	το αγγούρι
+milk	το γάλα
+yoghourt	το γιαούρτι
+juice	ο χυμός
+what?	τι;
+how?	πώς;
+I	εγώ
+you	εσύ
+he/she/it	αυτός/αυτή/αυτό
+we	εμείς
+you (pl)	εσείς
+they	αυτοί/αυτές/αυτά
+or	ή
+August	ο Αύγουστος
+morning	το πρωί
+market	η αγορά
+greengrocer's	το μανάβικο
+drachma	η δραχμή
+kilogramme	το κιλό
+half kilo	το μισό κιλό
+all together	όλα μαζί
+here you are, yes?	ορίστε
+then	τότε
+fresh	φρέσκα
+immediately	αμέσως
+how much is?	πόσο κάνει;
+how much are?	πόσο κάνουν;
+change	τα ρέστα
+ticket	το εισιτήριο
+single ticket	το απλό εισιτήριο
+return ticket	το εισιτήριο με επιστροφή
+Salonica	η Θεσσαλονίκη
+thousand	η χιλιάδα
+five	πέντε
+eight	οκτώ
+ten	δέκα
+to have	έχω
+house	το σπίτι
+garden	ο κήπος
+to tie, bind	δένω
+one	ένα
+two	δύο
+three	τρία
+four	τέσσερα
+six	έξι
+seven	έπτα/εφτά
+eight	οκτώ/οχτώ
+nine	εννέα/εννιά
+eleven	έντεκα
+twelve	δώδεκα
+thirteen	δεκατρία
+fourteen	δεκατέσσερα
+fifteen	δεκαπέντε
+sixteen	δεκαέξι
+seventeen	δεκαεπτά/δεκαεφτά
+eighteen	δεκαοκτώ/δεκαοχτώ
+nineteen	δεκαεννέα/δεκαεννιά
+twenty	είκοσι
+train	το τρένο
+island	το νησί
+port	το λιμάνι
+ship	το πλοίο
+child	το παιδί
+bicycle	το ποδήλατο
+tyre	το λάστιχο
+petrol station	το πρατήριο (βενζίνης)
+garage (workshop)	το συνεργείο
+toy car	το αυτοκινητάκι
+minute	το λεπτό
+but	αλλά
+trolleybus, tram	το τρόλεϊ
+road	ο δρόμος
+straight ahead	ίσια εμπρός
+far	μακριά
+there	εκεί
+to think	νομίζω
+fifty	πενήντα
+to answer	απαντώ (α)
+to benefit	ωφελώ
+to shop, buy	αγοράζω
+to go	πηγαίνω
+to miss, lose	χάνω
+to ask	ρωτώ (α)
+to be late	αργώ
+to love	αγαπώ (α)
+to travel, journey	ταξιδεύω
+to depart	αναχωρώ
+sea	η θάλασσα
+driver	ο οδηγός
+flight	η πτήση
+to fly	πετώ
+fish	το ψάρι
+petrol	η βενζίνη
+supermarket	το σουπερμάρκετ
+ferry	το φέριμποτ
+thirty	τριάντα
+forty	σαράντα
+sixty	εξήντα
+seventy	εβδομήντα
+eighty	ογδόντα
+ninety	ενενήντα
+hundred	εκατό
+3 (m./f./n.)	τρεις/τρεις/τρία
+4	τέσσερις/τέσσερις/τέσσερα
+example	το παράδειγμα
+examples	τα παραδείγματα
+hour, time	η ώρα
+past (the hour)	και
+to (the hour)	παρά
+am	πμ (πριν το μεσημέρι)
+pm	μμ (μετά το μεσημέρι)
+to eat	τρώω
+Athens	η Αθήνα
+helicopter	το ελικόπτερο
+first	πρώτα
+then, next	μετά
+magazine	το περιοδικό
+boarding card	η κάρτα επιβίβασης
+pastry	η πάστα
+Olympic Airways	η Ολυμπιακή Αεροπορία
+London	το Λονδίνο
+to look, see	κοιτάζω
+to take	παίρνω
+finally	τέλος
+to arrive	φτάνω
+waiting room	η αίθουσα αναμονής
+shop	το κατάστημα
+shops	τα καταστήματα
+aircraft	το αεροσκάφος
+by	με
+arrival	η άφιξη
+departure	η αναχώρηση
+internal flights	εσωτερικές πτήσεις
+external flights	εξωτερικές πτήσεις
+passport control	ο έλεγχος διαβατηρίων
+baggage control	ο έλεγχος αποσκευών
+ticket control	ο έλεγχος εισιτηρίων
+duty-free goods	τα αφορολόγητα
+exchange	το συνάλλαγμα
+hotel reservations	κρατήσεις ξενοδοχειών
+petrol station	το βενζινάδικο
+receptionist	ο, η υπάλληλος υποδοχής
+name	το όνομα
+address	η διεύθυνση
+room	το δωμάτιο
+customer	ο πελάτης
+from tomorrow	από αύριο
+(from) the day after tomorrow	(από) μεθαύριο
+from next week	από την άλλη εβδομάδα
+from now on	από εδώ και εμπρός
+every so often	κάθε τόσο
+life	η ζωή
+hen	η κότα
+to lead the life of Riley	παίρνω ζωή και κότα
+beach	η πλαζ
+to swim	κολυμπώ
+to drink	πίνω
+to amuse oneself	διασκεδάζω
+peace, quiet	η ησυχία
+tom-cat	ο γάτος
+queen	η γάτα
+cat	το γατί
+dog (m.)	ο σκύλος
+bitch	η σκύλα
+dog	το σκυλί
+donkey (m.)	ο γάιδαρος
+she-ass	η γαϊδούρα
+donkey	το γαϊδούρι
+father	ο πατέρας
+mother	η μητέρα
+son	ο γιος
+daughter	η κόρη
+sky	ο ουρανός
+sailor	ο ναύτης
+month	ο μήνας
+blue, azure	γαλάζιος -α -ο
+colour	το χρώμα
+man, husband	ο άντρας
+friend (m.)	ο φίλος
+passenger	ο επιβάτης
+doctor	ο γιατρός
+moment	η στιγμή
+ask, request	ζητώ (α)
+January	Ιανουάριος Γενάρης
+February	Φεβουάριος Φλεβάρης
+March	Μάρτιος Μάρτης
+April	Απρίλιος Απρίλης
+May	Μάιος Μάης
+June	Ιούνιος Ιούνης
+July	Ιούλιος Ιούλης
+August	Αύγουστος
+Sept.	Σεπτέμβριος Σεπτέμβρης
+October	Οκτώβριος Οκτώβρης
+November	Νοέμβριος Νοέμβρης
+December	Δεκέμβριος Δεκέμβρης
+to give	δίνω
+to send	στέλνω
+to expire	λήγω
+new	νέος -α -ο
+Greek	ελληνικός -ή -ό
+to fill in	συμπληρώνω
+miss	η δεσποινίς
+husband	ο σύζυγος
+Crete	η Κρήτη
+week	η εβδομάδα
+I will give	θα δώσω
+details	τα στοιχεία
+little, few	λίγος -η -ο
+date	η ημερομηνία
+birth	η γέννηση
+age	η ηλικία
+some	μερικοί -ές -ά
+place	ο τόπος
+nationality	η υπηκοότητα
+old	παλιός -ά -ό
+begin	αρχίζω
+next week	την ερχόμενη εβδομάδα
+next month	τον άλλο μήνα
+tonight	απόψε
+afternoon	το απόγευμα
+to say, speak	μιλώ (α)
+to cook	ψήνω
+to light	ανάβω
+to live	ζω
+to crash	τσουγκρίζω
+to celebrate	γιορτάζω
+to drive	οδηγώ
+to have fun	γλεντώ
+to help	βοηθώ
+to prepare	ετοιμάζω
+to dye	βάφω
+to hide	κρύβω
+to live, inhabit	κατοικώ
+to proceed	προχωρώ
+victory	η νίκη
+day	η μέρα
+Sunday	η Κυριακή
+Monday	η Δευτέρα
+Tuesday	η Τρίτη
+Wednesday	η Τετάρτη
+Thursday	η Πέμπτη
+Friday	η Παρασκευή
+Saturday	το Σάββατο
+season	η εποχή
+winter	ο χειμώνας
+spring	η άνοιξη
+summer	το καλοκαίρι
+autumn	το φθινόπωρο
+to leave	φεύγω
+family	η οικογένεια
+two and a half	δυόμιση
+holiday, feast-day	η γιορτή
+village	το χωριό
+town	η πόλη
+countryside	η εξοχή
+grandfather	ο παππούς
+grandmother	η γιαγιά
+red	κόκκινος -η -ο
+people	ο κόσμος
+big	μεγάλος -η -ο
+courtyard	η αυλή
+family home	το πατρικό (σπίτι)
+Easter	το Πάσχα
+usually	συνήθως
+to, up to, until	έως
+Good Friday	η Μεγάλη Παρασκευή
+there's Bedlam	γίνεται της τρελής
+Christ is risen	Χριστός ανέστη
+He is risen indeed	Αληθώς ανέστη
+I shall eat	θα φάω
+charcoal	τα κάρβουνα
+uncle	ο θείος
+aunt	η θεία
+nephew	ο ανιψιός
+niece	η ανιψιά
+cousin	ο εξάδελφος, η -η
+brother	ο αδελφός, αδερφός
+sister	η αδελφή, αδερφή
+father	ο μπαμπάς
+mother	η μαμά
+brother-in-law, son-in-law, bridegroom	ο γαμπρός
+sister-in-law, daughter-in-law, bride	η νύφη
+fiancée	η αρραβωνιαστικιά
+fiancé	ο αρραβωνιαστικιός
+husband	ο σύζυγος
+wife	η σύζυγος
+good morning to you	καλή σου μέρα
+occasion	η φορά
+to be in a hurry	είμαι βιαστικός -ή -ό
+to run	τρέχω
+it is necessary	πρέπει
+way, means	ο τρόπος
+well, good	καλά
+why, because, since	γιατί
+group of friends	η παρέα
+fishing	το ψαρέμα
+to fish	ψαρεύω
+good mood, high spirits	το κέφι
+well then, go on	άντε
+already, as well	κιόλας
+today	σήμερα
+of course	πως
+have fun!	καλή διεσκέδαση
+in future	στο μέλλον
+to find	βρίσκω
+I shall find	θα βρω
+to leave	φεύγω
+I shall leave	θα φύγω
+to drink	πίνω
+I shall drink	θα πιω
+to go	πηγαίνω
+I shall go	θα πάω
+I want to	θέλω να
+I intend to	σκοπεύω να
+I am wont to	συνηθίζω να
+I can	μπορώ να
+I insist upon	επιμένω να
+it is hard to	είναι δύσκολο να
+kafenion	το καφενείο
+church	η εκκλησία
+school	το σχολείο
+to follow	ακολουθώ
+arrow	το βέλος
+subscriber	ο συνδρομητής
+registration	η εγγραφή
+form	το έντυπο
+to know	γνωρίζω
+catalogue, list	ο κατάλογος
+to issue, publish	εκδίδω
+preference	η προτίμηση
+card	το δελτίο
+cheque	η επιταγή
+cash on receipt	η αντικαταβολή
+organisation	ο οργανισμός
+to choose	διαλέγω
+house (formal)	η οικία
+number	ο αριθμός
+square	η πλατεία
+avenue	ο λεωφόρος
+telephone	το τηλέφωνο
+shelter, refuge	το καταφύγιο
+evening, night	η βραδιά
+performance	η παράσταση
+love	ο έρωτας
+death	ο θανάτος
+struggle	η πάλη
+two hundred	διακόσια
+three hundred	τριακόσια
+four hundred	τετρακόσια
+five hundred	πεντακόσια
+six hundred	εξακόσια
+700	επτακόσια εφτακόσια
+800	οκτακόσια οχτακόσια
+nine hundred	εννιακόσια
+thousand (number)	χίλια
+two thousand	δύο χίλιαδες
+three thousand	τρεις χίλιαδες
+four thousand	τέσσερις χίλιαδες
+etc.	κ.λπ. (και τα λοιπά)
+million	ένα εκατομμύριο
+billion (Am.)	ένα δισεκατομμύριο
+100 men	εκατόν άντρες
+100 women	εκατό γυναίκες
+100 children	εκατόν παιδιά
+200 (m.)	διακόσιοι άντρες
+200 (f.)	διακόσιες γυναίκες
+200 (n.)	διακόσια παιδιά
+300 (m.)	τριακόσιοι άντρες
+300 (f.)	τριακόσιες γυναίκες
+300 (n.)	τριακόσια παιδιά
+1000 (m.)	χίλιοι άντρες
+1000 (f.)	χίλιες γυναίκες
+1000 (n.)	χίλια παιδιά
+2000 (m.)	δύο χίλιαδες άντρες
+2000 (f.)	δύο χίλιαδες γυναίκες
+2000 (n.)	δύο χίλιαδες παιδιά
+postcode	ο ταχυδρομικός κώδικας
+to live, inhabit	μένω
+to write	γράφω
+to join	ενώνω
+point	το σημείο
+turn	η σειρά
+small boat	η βάρκα
+cloth, sail	το παν(ν)ί
+ship	το καράβι
+finally	επιτέλους
+National Theatre	το Κρατικό Θέατρο
+next, coming	ερχόμενος -η -ο
+sufficient, several	αρκετός -ή -ό
+other	άλλος -η -ο
+written	γραμμένος -η -ο
+around	γύρω
+word	ο λόγος
+living, lively	ζωντανός -ή -ό
+rich	πλούσιος -η -ο
+roughly, about	περίπου
+year, years	ο χρόνος, τα χρόνια
+tense, tenses	ο χρόνος, οι χρόνοι
+tragedy	η τραγωδία
+melodious	μελωδικός -ή -ό
+to meet (again)	(ξανα)συναντώ
+bell	το κουδούνι
+to invite	προσκαλώ
+to go out	βγαίνω
+rough sea	η φουρτούνα
+much, many	πολύς, πολλή, πολύ
+weekend	το Σαββατοκύριακο
+last week	η περασμένη (ε)βδομάδα
+little harbour	το λιμανάκι
+entire, whole	ολόκληρος -η -ο
+[greeting]	καλώς τον/την
+come (imperative)	έλα
+come in	έλα μέσα
+come off it!	έλα καημένη
+poor, miserable	καημένος -η -ο
+perhaps	μήπως
+another, more	ακόμη
+little fish	το ψαράκι
+little ouzo	το ουζάκι
+lamb	το αρνί
+little lamb	το αρνάκι
+to prefer	προτιμώ
+to drive	οδηγώ
+to help	βοηθώ
+to open	ανοίγω
+to pay	πληρώνω
+to turn	στρίβω
+to be missing	λείπω
+to cut down or off	κόβω
+to push, thrust	σπρώχνω
+to reach, come to, arrive	φτάνω
+to run	τρέχω
+yesterday	χτες (ή χθες)
+the day before yesterday	προχτές (ή προχθές)
+last month	τον περασμένο μήνα
+last week	την περασμένη εβδομάδα
+four years ago	πριν τέσσερα χρόνια
+last year	πέρσι (ή πέρυσι)
+in 1990	το 1990
+dress	το φόρεμα
+pub, inn	η ταβέρνα
+child	το παιδί
+wine	το κρασί
+accident, misfortune	το ατύχημα
+policeman	ο αστυφύλακας
+shop window	η βιτρίνα
+wedding	ο γάμος
+then	λοιπόν
+there	εκεί
+voice	η φωνή
+squeal	το στρίγκλισμα
+brake(s)	το φρένο
+corner, street-corner	η γωνία
+to walk	περπατώ
+to know	ξέρω
+to hear	ακούω
+to come in	μπαίνω
+excuse me	με συγχωρείτε
+I saw	είδα
+to your health	να σας ζήσει
+to go by, go through, pass	περνώ
+always	πάντα
+often	συχνά
+every year	κάθε χρόνο
+regularly	τακτικά
+every time	κάθε φορά
+while	ενώ
+as	καθώς
+all day	όλη μέρα
+all morning	όλο το πρωί
+when	την ώρα που
+gap, empty space, emptiness	το κενό
+anything/nothing	τίποτα
+nowhere	πουθενά
+not one	κανέναν
+never	ποτέ
+(s)he took	πήρε
+the word	η λέξη
+complex, multiple	σύνθετος -η -ο
+end, extremity	το άκρο
+finger	το δάχτυλο
+it was	ήταν
+well-known, famous	γνωστός -ή -ό
+much, many, very	πολύς, πολλή, πολύ
+according to	σύμφωνα με
+attempt, effort	η προσπάθεια
+to go down, drop, fall	πέφτω
+to put	βάζω
+hand	το χέρι
+to let go	αφήνω
+i.e.	δηλ.
+mountain range	η οροσειρά
+Cyprus	η Κύπρος
+legend, saga, folktale	ο θρύλος
+soldier	ο στρατιώτης
+to defend	υπερασπίζομαι
+border, frontier	το σύνορο
+the Byzantine Empire	η βυζαντινή αυτοκρατορία
+Byzantium	το Βυζάντιο
+popular song, folksong	το δημοτικό τραγούδι
+tradition	η παράδοση
+chased, hunted	κυνηγημένος -η -ο
+enemy	ο εχθρός
+impression, mark, print	το αποτύπωμα
+maternity dress	φόρεμα εγκυμοσύνης
+αβγό, το	egg
+αβλεψία, η	neglect, negligence
+αγαπάω (-ώ)	love [v]
+αγάπη, η	love
+άγγελος, ο	angel
+Αγγλία, η	England
+αγγλικά, τα	English (language)
+αγγλικός -ή, -ό	English [aj]
+ο άγγλος, η αγγλίδα	Englishman, Englishwoman
+αγγούρι, το	cucumber
+αγελάδα, η	cow
+αγκάθι, το	thorn
+αγκίδα, η	barb
+αγκίστρι, το	hook
+αγκωνάρι, το	block (solid mass of material)
+αγνός (-ή, -ό)	pure [aj]
+αγόρι, το	boy
+άγριος (-ια, -ιο)	wild, feral, untamed [aj]
+αγρόκτημα, το	farm
+άγρυπνος (-η, -ο)	alert [aj]
+άγχος, το	stress, anxiety
+αγωνίζομαι	fight, combat, struggle [v]
+άδειος -α, -ο	empty [aj]
+αδελφή, αδερφή, η	sister
+αδελφός, αδερφός, ο	brother
+αδρύς (-ρεία, -ρύ)	rough, coarse [aj]
+αέρας, ο	air, wind
+αέριο, το	gas (not liquid or solid)
+αέριος (-ια, -ιο), αεριώδης (-δης, -δες)	gaseous [aj]
+αεροπλάνο, το	airplane, aircraft, plane
+άζωτο, το	nitrogen
+αθλητισμός, ο	athletics
+σπορ, τα	sports
+αθώος (-ώα, -ώο)	innocent [aj]
+αίμα, το	blood
+αισθάνομαι αναφέρομαι	feel [v]
+αίσθηση, η	sense
+αιχμηρός (-ή, -ό)	tapered, pointy [aj]
+αιώνας, ο	century
+άκαμπτος (-η, -ο)	stiff, rigid [aj]
+ακανόνιστο (-τη, -τος), σποραδικό (-κή, -κός)	irregular, sporadic, intermittent [aj]
+ακολουθία, η	sequence
+ακόμα, ακόμη	still, yet [av]
+ακόνι, το	file (tool for abrading)
+ακουμπάω (-ώ)	1. touch [v] 2. support oneself [v]
+ακούω	hear [v]
+άκρη, η ακμή	edge
+ακρίδα, η	grasshopper, locust
+ακριβής (-βής, -βές)	exact, precise [aj]
+ακριβός (-ή, -ό)	expensive, costly [aj]
+ακρογιαλιά, η	beach
+ακτή, η	shore
+ακτίνα, η	1. ray (of light) 2. radius
+αλάτι, το	salt
+αλεπού, η	fox
+αλέτρι, το	plow (plough)
+αλεύρι, το	flour
+αληθινός (-ή, -ό)	true [aj]
+αλκοόλ, το , οινόπνευμα, το	alcohol
+αλλάζω	change [v]
+άλλος (άλλη, άλλο)	other, another [aj/pn]
+αλογάκι της Παναγίας, το	mantis
+άλογο, το	horse
+αλυσίδα, η	chain
+αλφάβητο, το	alphabet
+αμάξι, το	car
+αμβλύς (-λεία, -λύ)	dull, blunt [aj]
+άμεσος (-ση, -σο), ευθύς (-θεία, -θύ)	direct, immediate [aj]
+αμετάβλητο (-τη, -τος), απαράλλαχτο (-τη, -τος)	invariant, unchanging [aj]
+άμμος, η λεωφόρος	sand
+αμοιβαίος (-αία, -αίο)	mutual, reciprocal [aj]
+αμφιβάλλω υποβάλλω	doubt [v]
+αμύνομαι, υπεραμύνομαι	defend [v]
+αν	if [cj]
+ανά	per (time) [pr,av]
+αναβάλλω υποβάλλω (βάλλω)	postpone [v]
+αναγνωρίζω	recognize, recognise [v]
+αναζητάω (-ώ) ψάχνω	seek, search for, look for [v]
+αναζωογονημένος (-η, -ο)	refreshed [aj]
+ανακατεύω, ανακατώνω	mix, blend [v]
+ανακοινώνω	announce, proclaim [v]
+ανάμεσα, εν μέσω, μεταξύ	between, among, amidst [av]
+αναπηδάω (-ώ)	bounce, rebound [v]
+αναπνέω	breathe [v]
+ανάποδος (-η, -ο)	inverted, upside-down [aj]
+ανασηκώνω	lift [v]
+ανασηκώνω	pry open [v]
+αναστέλλω	pause, suspend [v]
+ανατολή, η	east
+ανεμιστήρας, ο	fan (device to create air current)
+άνεμος, ο	wind
+ανεξάρτητος (-η, -ο)	independent [aj]
+ανεπαρκώς, όχι αρκετά	too little, insufficiently [av]
+άνεση, η	comfort
+ανησυχία, η	worry
+ανθεκτικός (-ή, -ό)	durable, resilient, robust [aj]
+άνθρακας, ο	carbon
+άνθρωπος, ο	person, human being
+ανόητος (-η, -ο)	foolish, silly [aj]
+άνοιγμα, το	opening
+ανοίγω	open [v]
+άνοιξη, η	spring (the season)
+ανοιχτός (-ή, -ό)	open [aj]
+ανταγωνίζομαι, αμιλλώμαι	compete, strive, vie [v]
+ανταλλάσσω	exchange, trade, swap [v]
+αντί	instead of, rather than [av]
+αντίγραφο, το	copy (a duplicate)
+αντικατάσταση, η	substitution, replacement
+αντικαταστάτρια (-τάτης)	substitute, surrogate [aj]
+αντικείμενο, το	object
+αντιλαμβάνομαι λαμβάνω	perceive [v]
+αντιπροσωπεύω, εκπροσωπώ	represent, stand for [v]
+αντίστροφο (-φη, -φος)	backward, reverse [av]
+αντίχειρας, ο ελέφαντας	thumb
+αντλία, η ώρα	pump
+άντρας, άνδρας, ο άντρας	man
+αξία, η ώρα	value, worth
+αξίζω	deserve, merit (be worthy of) [v]
+αόριστος, ο άνθρωπος	past (tense)
+απαγορεύω 	prohibit, forbid [v]
+απαλό (-λή, -λός)	gentle, mild [aj]
+απάντηση, η	answer, reply
+απαραίτητο (-τη, -τος)	necessary, needed, required [aj]
+απέναντι	across [av]
+απεργία, η ώρα	strike (work stoppage as protest)
+άπληστο (-τη, -τος)	greedy [aj]
+απλό (-λή, -λός)	simple [aj]
+απλώνω	spread, lay [v]
+από	1. from, out of, away from [pr] 2. than [av]
+από μπρος	from the front [av]
+από κάτω	underneath, below, beneath [av]
+από πάνω	from above [av]
+από πίσω	from behind, to the rear of [av]
+απόγευμα, το	afternoon
+απογοήτευση, η	disappointment
+απόδειξη, η	1. proof 2. receipt
+απόθεμα, το	store, cache, reserve, reservoir
+αποκαλύπτω	reveal, disclose [v]
+αποκάλυψη, η	revelation, mystical vision
+αποκλειστικά	exclusively [av]
+αποκτάω (-ώ)	get, acquire, gain, obtain [v]
+απομεινάρι, το	leftover, remnant
+απόν (απούσα, απών)	absent [aj]
+απορρίπτω	reject, refuse [v]
+απορροφάω (-ώ)	absorb [v]
+απόσταση, η	distance
+αποτέλεσμα, το	result
+αποτελούμαι καλούμαι	consist of, composed of, comprise [v]
+αποτελώ	constitute [v]
+απότομο (-μη, -μος)	1. abrupt [aj] 2. steep [aj]
+αποτυγχάνω αποτυγχάνω, αστοχώ	fail, miss [v]
+αποφασίζω	decide [v]
+αποφεύγω φεύγω	avoid, evade (keep away from) [v]
+απωθώ	repel [v]
+αραιό (-αιή, -αιός)	rarefied, tenuous, diffuse, dilute, sparse, wispy [aj]
+αράχνη, η αγάπη	spider
+αργία, η ώρα	holiday
+αργό (-γή, -γός)	late, tardy [aj/av]
+αρέσω αρέσω, αρέσκομαι αρέσκομαι	like, enjoy [v]
+άρθρο, το βιβλίο	1. article, essay 2. article, determiner
+άρθρωση, η	joint (of bones, mechanical parts, etc.)
+αριθμός, ο	number
+αριστερό (-ρή, -ρός)	left [aj]
+αρκετά	enough, sufficiently [av]
+αρκούδα, η 	bear
+αρμονία, η 	harmony
+αρνητικό (-κή, -κός)	negative [aj]
+αρνί, το 	lamb
+αρνούμαι	deny [v]
+αρρώστεια, η 	sickness
+αρσενικό (-κή, -κός)	masculine [aj]
+αρχείο, το 	record (cache of information)
+αρχείο, ντοσιέ, το 	file (dossier; loose bundle of data)
+αρχέτυπο, μοντέλο, το 	prototype, exemplar, archetype, model
+αρχή, η 	authority
+αρχηγός, ο 	chief, leader
+αρχίζω	begin, commence, start [v]
+άρωμα, το 	flavor
+ασήμι, το, άργυρος, ο	silver
+ασθένεια, η 	disease, illness
+άσκηση, εξάσκηση, η 	exercise, practice
+ασπίδα, η 	shield
+άσπρο (-ρη, -ρος), λευκό (-κή, -κός)	white [aj]
+ασσανσέρ, το, ανελκυστήρας, ο	elevator, lift
+αστέρι, άστρο, το 	star
+αστακός, ο 	lobster
+αστείο (-τεία, -τείος)	funny [aj]
+αστραπή, η 	lightning
+αστυνομία, η 	police
+ασφάλεια, η 	safety, security
+ασφάλιση, η 	insurance
+άσχημο (-μη, -μος)	ugly [aj]
+ατμός, ο 	steam
+άτομο, το 	1. atom 2. individual, person
+ατσάλι, το 	steel
+αυγή, η, χαράματα,τα, ξημέρωμα, το	dawn
+αυλάκι, το 	furrow, rut, groove
+αυξάνω	increase [v]
+αύριο	tomorrow [av]
+αυτή	she [pn]
+αυτί, το 	ear
+αυτοκίνητο, το 	automobile
+αυτό	it [pn]
+αυτό (-τή, -τός)	this [pn]
+αυτόματο (-τη, -τος)	automatic [aj]
+αυτός	he [pn]
+αυτόχθον (-θων, -θων), ιθαγενές (-νής, -νής)	native [aj]
+αυχένας, ο 	neck
+αφαιρώ	remove, subtract, take away [v]
+αφήνω	release [v]
+αφρός, ο 	foam, froth
+αχλή, η 	mist
+αχρηστεύω	waste, misuse [v]
+αψίδα, η 	arch
+βαγόνι, το 	wagon
+βάζο, το 	jar, jug, vase
+βάζω	put [v]
+βαθμός, ο 	degree
+βάθος, το 	depth
+βαθούλωμα, το 	dent, indentation
+βαθυστόχαστο (-τη, -τος)	profound (of intellectual depth) [aj]
+βαθύ (-θιά, -θύς)	deep [aj]
+βαλανιδιά, η 	oak
+βαλβίδα, η 	valve
+βάλτος, ο 	swamp
+βαμβάκι, το 	cotton
+βαρέλι, το 	barrel, cask
+βαρετό (-τή, -τός)	boring, tedious [aj]
+βάρκα, η 	boat
+βάρος, το 	weight
+βαρύ (-ριά, -ρύς)	heavy [aj]
+βαρύτητα, η 	gravity
+βάση, η 	basis
+βασίζομαι	rely on [v]
+βασίλισσα, η 	queen
+βασανίζω	torture, torment [v]
+βασικό (-κή, -κός)	1. basic [aj] 2. alkaline [aj]
+βασιλιάς, ο 	king
+βατόμουρο, το 	berry
+βάτραχος, ο 	frog
+βέβαιο (-αιη, -αιος)	certain, sure [aj]
+βελόνα, η 	needle
+βέλος, το 	arrow
+βέργα, η 	pole, stick
+βία, η 	violence, force (unwillingly applied power)
+βιάζομαι	rush, hurry, hasten [v]
+βιάζω	rape [v]
+βίαιο (-αιη, -αιος)	violent [aj]
+βιβλίο, το 	book
+βιβλιοθήκη, η 	library
+βίδα, η 	screw
+βιώνω	experience [v]
+βλάκας	stupid [aj]
+βλέπω	see [v]
+βλέφαρο, το 	eyelash
+βλαστός, ο 	sprout
+βοηθάω	help, assist, aid [v]
+βοηθητικό (-κή, -κός)	auxiliary [aj]
+βόμβα, η 	bomb
+βορράς, ο 	north
+βουλή, η 	parliament, congress
+βουνό, το 	mountain
+βούλωμα, το 	plug, seal, stopper
+βούρτσα, η 	brush
+βούτυρο, το 	butter
+βράδυ, το 	evening
+βράζω	boil [v]
+βράχος, ο 	rock
+βρίσκω	find [v]
+βραβείο, το 	prize, award
+βροντή, η 	thunder
+βροχή, η 	rain
+βρόμη, η 	oat
+βρώμικο (-κη, -κος)	dirty [aj]
+βυθίζω	sink [v]
+γάιδαρος, ο 	donkey
+γάλα, το 	milk
+γαλοπούλα, η 	turkey (the bird)
+γάμος, ο 	marriage
+γάντι, το 	glove
+γάτα, η 	cat
+γεγονός, το 	fact
+γελάω	laugh [v]
+γεμάτο (-τη, -τος), πλήρες (-ρης, -ρης)	full, filled [aj]
+γενειάδα, η 	beard
+γενικό (-κή, -κός)	general [aj]
+γενναιόδωρο (-ρη, -ρος)	generous [aj]
+γέννηση, η 	birth
+γένος, το 	gender
+γέρικο (-κη/-κια, -κος)	old (having lived for a long time) [aj]
+γέρος, ο 	old man
+γεύομαι	taste [v]
+γεύση, η 	taste
+γέφυρα, η 	bridge
+γη, η 	earth (the planet)
+για	for [pr]
+γιακάς, ο 	collar
+γιατί	why (interrogative) [av]
+γιγαντιαίο (-αία, -αίος)	gigantic [aj]
+γίνομαι	become [v]
+γιός, ο 	son
+γκρίζο (-ζα, -ζος), γκρί	gray, grey [aj]
+γκρεμός, ο 	cliff
+γλιστράω	slide, slip, glide [v]
+γλουτός, ο 	buttock
+γλυκό, το 	dessert
+γλυκό (-κιά, -κός)	sweet [aj]
+γλώσσα, η 	1. language 2. tongue (body-part)
+γνώμη, η 	opinion
+γνωρίζω	1. become acquainted, familiarize 2. know
+γνώση, η 	knowledge
+γόνατο, το 	knee
+γονέας, ο 	parent
+γονίδιο, το 	gene
+γόνιμο (-μη, -μος)	fertile [aj]
+γουρούνι, το 	pig
+γοφός, ο 	hip
+γράμμα, το 	1. letter (a message written and mailed) 2. letter, character
+γράφω	write [v]
+γρήγορα, γοργά	quickly, rapidly, swiftly [av]
+γραβάτα, η 	necktie
+γραμμή, η 	line
+γραμματική, η 	grammar
+γρανάζι, το 	gear (toothed wheel)
+γρασίδι, το 	grass
+γρατζουνιά, η 	scratch
+γραφίδα, η 	stylus
+γριά, η 	old woman
+γροθιά, η 	fist
+γυαλί, το 	glass
+γυαλιά, τα 	glasses (eyeglasses)
+γυμναστική, η 	gymnastics
+γυμνό (-νή, -νός)	naked, nude [aj]
+γυναίκα, η 	woman
+γυρίζω, γυρνάω	turn, rotate, revolve [v]
+γύρω	around [av]
+γωνία, η 	angle
+δαγκώνω	bite [v]
+δάκρυ, το 	tear (drop)
+δακτύλιος, ο 	ring, torus
+δαμάσκηνο, το 	plum
+δανείζομαι	borrow [v]
+δανείζω	lend [v]
+δάσος, το 	forest
+δάχτυλο, το 	1. finger 2. toe
+δείγμα, το 	sample
+δειλινό, σούρουπο, το 	dusk
+δείχνω	indicate, show [v]
+δελεάζω	tempt [v]
+δέκα	ten [num]
+δέμα, πακέτο, το 	package, packet, parcel
+δέμα, το, σωρός, ο	bundle, bunch
+δεν	not [av]
+δέντρο, το 	tree
+δένω	tie, bind [v]
+δεξιό (-ξιά, -ξιός)	right (the direction) [aj]
+δέρμα, το 	1. leather 2. skin
+δευτερόλεπτο, το 	second (1/60th of a minute)
+δέχομαι	accept [v]
+δηλητήριο, το 	poison, toxin
+δημιουργώ, φτιάχνω, κάνω	create, make [v]
+δημόσιο (-ια, -ιος)	public [aj]
+διά, διαμέσου	through [pr,av]
+διαβάζω	read [v]
+διάβρωση, η 	corrosion
+διάγραμμα, το 	chart, diagram
+διαγώνιο (-ια, -ιος)	diagonal [aj]
+διαδικασία, η 	process, procedure
+διαθέτω	provide, supply, furnish [v]
+διαιρώ	divide [v]
+διαιτητής, ο 	umpire, referee, official
+διαλέγω, επιλέγω	choose, pick up, select, compile [v]
+διαλύω	dissolve [v]
+διαμαρτυρία, η 	protest, objection
+διάρκεια, η 	duration
+διάσημο (-μη, -μος)	famous [aj]
+διαστέλλομαι, επεκτείνω	expand, extend [v]
+διάστημα, το 	1. interval 2. space (the outer space)
+διατηρώ	preserve, maintain [v]
+διαφήμιση, η 	advertisement, commercial
+διαφορετικό (-κή, -κός)	different [aj]
+διδάσκω	teach [v]
+διεθνές (-νής, -νής)	international [aj]
+διευρυμένο (-νη, -νος)	1. flared [aj] 2. expanded
+διεύθυνση, η 	address
+διεύθυνση, κατεύθυνση, η 	direction
+διήγημα, το, διήγηση, αφήγηση, η	story, report
+δίκαιο (-αιη, -αιος), ακριβοδίκαιο (-αιη, -αιος)	just, fair, equitable [aj]
+δικαίωμα, το 	right, just claim
+δικαστήριο, το 	court (of law)
+δίκη, η 	trial (in court)
+δικτάτορας, τύραννος, ο 	dictator, tyrant
+δίνω	give [v]
+διορθώνω, φτιάχνω	repair, fix, mend [v]
+διπλώνω	fold [v]
+δίσκος, ο 	1. disk, disc 2. tray
+διστάζω	hesitate [v]
+δίχτυ, το 	net
+δοκιμάζω, επιχειρώ	try, attempt, endeavor [v]
+δόντι, το 	tooth
+δορυφόρος, ο 	satellite
+δουλειά, εργασία, η 	job, employment
+δοχείο, το 	container
+δράκος, ο 	dragon
+δραστηριότητα, η 	activity, bustle, ado
+δρόμος, ο 	road, way
+δύναμη, η 	1. force (the concept in physics) 2. strength
+δυνατό (-τή, -τός)	1. loud [aj] 2. possible [aj]
+δύο, δυο	two [num]
+δύση, η 	west
+δυσκολία, η, πρόβλημα, το	difficulty, trouble
+δύσκολο (-λη, -λος)	difficult, hard [aj]
+δυστύχημα, το 	accident
+δωμάτιο, το 	room
+εβδομάδα, η 	week
+εγγραφή, η 	record (one of many entries in a file)
+έγγραφο, το 	document
+έγκαιρο (-ρη, -ρος)	timely, prompt, on time [av/aj]
+έγκλημα, το 	crime
+εγκρίνω	approve [v]
+εγώ	I [pn]
+εδώ	here [av]
+έθνος, το 	nation
+ειδικό (-κή, -κός)	special [aj]
+είδος (έμβιου όντος), το 	species
+είδος, το, τύπος, ο	kind, sort, type
+εικόνα, η 	image, icon
+είμαι	be [v]
+ειρήνη, η 	peace
+εις	at (in the same location as) [pr]
+εισιτήριο, το 	ticket
+εκατομμύριο, το 	million [num]
+εκατό	hundred [num]
+εκδίκηση, η 	revenge, vengeance, retribution
+έκδοση, η 	1. issue, edition 2. extradition
+εκεί	there [av]
+εκείνο (-νη, -νος)	that (demonstrative) [aj/pn]
+εκκλησία, η 	church
+εκλέγω	elect [v]
+έκλειψη, η 	eclipse
+εκπέμπω	emit [v]
+εκρήγνυμαι	explode [v]
+εκστρατεία, η 	campaign
+εκτρέπω	turn, divert [v]
+εκτός	outside of, exterior to [av]
+εκτός, εκτός από	except for, besides, apart from, excluding [av]
+ελαστικό, το 	rubber
+ελαστικό (-κή, -κός)	elastic [aj]
+ελατήριο, το 	spring (metal helix)
+ελάττωμα, ατέλεια	flaw, defect, imperfection
+ελαττώνω	decrease [v]
+ελάφι, το 	deer
+ελαφρύ (-ριά, -ρύς)	light (of little weight) [aj]
+ελάχιστο (-τη, -τος)	least (smallest quantity of) [aj]
+ελέγχω	1. control [v] 2. test, check [v]
+έλεος, το 	mercy
+ελεύθερο (-ρη, -ρος)	free [aj]
+ελιά, η 	olive
+έλικας, ο 	helix
+ελισσόμενο (-νη, -νος)	serpentine, meandering, convoluted [aj]
+έλκω	attract [v]
+έλλειψη, η 	1. ellipse 2. scarcity, dearth
+έλος, το 	marsh
+ελπίζω	hope [v]
+εμβαδόν, το 	area (in the geometric sense)
+έμβρυο, το 	fetus (foetus), embryo
+εμπιστεύομαι	trust [v]
+εμποδίζω, αποτρέπω	hinder, prevent [v]
+εμπόδιο, το 	barrier, obstacle
+εμπόρευμα, το 	merchandise, goods, wares
+εμπόριο, το 	business, commerce
+εμπρός	front
+ένα	one [num]
+ένα (μία, ένας)	a [det]
+εναλλάσσω	alternate, take turns [v]
+ένδειξη, η 	evidence
+ενδιαφέρον, το 	1. care, concern 2. interest, fascination
+ενέργεια, η 	energy
+ενήλικος, ο 	adult
+ενθουσιασμός, ο 	enthusiasm
+εννέα	nine [num]
+ένορκοι, οι 	jury
+ένοχο (-χη, -χος)	guilty [aj]
+έντερο, το 	intestine, gut
+εντολή, διαταγή, η 	command, order, directive
+έντομο, το 	insect
+εντοπίζω	detect, spot [v]
+εντός	in, inside of [av]
+εντούτοις	however, though [cj]
+ενώνω	unite [v]
+εξαντλώ	exhaust, use up [v]
+εξάπτω, αναμοχλεύω	stir, agitate [v]
+εξαρτώμαι	depend on [v]
+εξατμίζομαι	evaporate [v]
+εξετάζω, επιθεωρώ	examine, inspect [v]
+εξήγηση, η 	explanation
+έξι	six [num]
+εξόγκωμα, το 	bump, protrusion
+εξοχή, η 	countryside, country
+εξφενδονίζω	shoot [v]
+εξωτερικό (-κή, -κός)	outer, exterior, external [aj]
+επαναφέρω	retrieve, fetch [v]
+επαρχία, η 	province, prefecture
+επαρχιακό (-κή, -κός), αγροτικό (-κή, -κός)	rural [aj]
+επειδή, γιατί, διότι	because of, due to [cj]
+επενδύω	invest [v]
+επερώτηση, η 	query
+επί, πάνω	on [pr,av]
+επιβραβεύω	reward [v]
+επιδεικνύω	exhibit, display, show off [v]
+επιθυμώ	wish, desire [v]
+επικοινωνία, η 	communication
+επικρίνω, κατακρίνω	criticize, criticise [v]
+επίπεδο, το 	plane (flat surface)
+επίπεδο (-δη, -δος)	flat, planar [aj]
+επιπλέω	float [v]
+έπιπλο, το 	furniture
+επιπρόσθετα	additionally, in addition [av]
+επίσημο (-μη, -μος)	official [aj]
+επίσης, και	also, too [av]
+επισκέπτομαι	visit [v]
+επιστήμη, η 	science
+επιστρέφω	return [v]
+επιτίθεμαι	attack [v]
+επιταγή, η 	check (money order)
+επιτελώ, εκτελώ	perform [v]
+επιτρέπω, αφήνω	permit, allow, let [v]
+επιτροπή, η 	committee
+επιφάνεια, η 	surface
+επόμενο (-νη, -νος)	next [aj]
+εποχή, η 	1. era, epoch 2. season
+επτά	seven [num]
+εργαλείο, το 	tool
+εργασία, δουλειά, η 	work, effort, labor, toil
+έργο, το 	movie, motion picture
+έργο, το, ανάθεση, η	project, undertaking
+έργο, το, αποστολή, η	task, chore, assignment
+έργο, θέατρο, το 	play, drama
+εργοστάσιο, το 	factory
+έρημος, η 	desert
+ερπετό, το 	reptile
+έρπω	crawl [v]
+έρχομαι	come [v]
+ερωτηματικό (-κή, -κός)	interrogative [aj]
+ερώτηση, η 	question
+εσύ	you [pn]
+εσωτερικό (-κή, -κός)	inner, internal, interior [aj]
+εταιρεία, επιχείρηση, η 	company, firm
+ετικέττα, η 	label
+έτοιμο (-μη, -μος)	ready, prepared [aj]
+έτος, το, χρόνος, ο	year
+ευγενικό (-κή, -κός)	kind, polite [aj]
+ευγνώμων	grateful, thankful [aj]
+εύθραυστο (-τη, -τος)	fragile, delicate [aj]
+ευκαιρία, η 	chance, opportunity
+εύκολο (-λη, -λος)	easy [aj]
+ευλογώ	bless [v]
+ευλύγιστο (-τη, -τος)	flexible [aj]
+ευφυές (-υής, -υής)	intelligent [aj]
+ευχαρίστηση, η 	pleasure
+ευχάριστο (-τη, -τος)	nice, pleasant [aj]
+ευχαριστώ	thank [v]
+εφαρμοστό (-τή, -τός)	snug, tight [aj]
+εφευρίσκω	invent [v]
+εφημερίδα, η 	newspaper
+εχθρός, ο 	enemy
+έχω	have [v]
+ζάχαρη, η 	sugar
+ζελέ, το 	jelly, gel
+ζέστη, η 	heat, warmth
+ζεστό (-τή, -τός)	warm [aj]
+ζήλεια, η 	jealousy, envy
+ζήλος, ο 	zeal
+ζητώ	request, ask for [v]
+ζυγαριά, η 	scales
+ζυμαρικά, τα 	pasta, noodles
+ζύμη, η 	paste
+ζωντανό (-νή, -νός)	alive [aj]
+ζώ	live [v]
+ζώνη, η 	belt
+ζώο, το 	animal
+η	the (feminine) [det]
+ή	or [cj]
+ήδη	already [av]
+ηλεκτρισμός, ο 	electricity
+ηλίθιο (-θια, -θιος)	idiot, idiotic [aj]
+ηλικία, η 	age
+ήλιος, ο 	sun
+ηλιοτρόπιο, το 	sunflower
+ημέρα, η 	day (daytime, while there is still light)
+ημερομηνία, η 	date (coordinates of a day)
+ηφαίστειο, το 	volcano
+ήχος, ο 	sound
+θα	will, shall [particle]
+θα έπρεπε, θάπρεπε	should, ought to [aux]
+θάλαμος, ο 	chamber
+θάλασσα, η 	sea
+θάμνος, ο 	bush, shrub
+θάρρος, το 	courage, bravery
+θαύμα, το 	miracle
+θαυμάζω	admire [v]
+θαυμαστικό, το 	exclamation mark
+θαυμαστικό (-κή, -κός)	exclamatory [aj]
+θέα, η 	view
+θεά, η 	goddess
+θέατρο, το 	theater, theatre
+θειάφι, το 	sulfur
+θέλω	want [v]
+θέμα, αντικείμενο, το 	subject, topic
+θεμέλιο, το 	foundation
+θεός, ο 	god
+θεότητα, η 	deity
+θερίζω	harvest, reap [v]
+θερμοκρασία, η 	temperature
+θέση, η 	position
+θετικό (-κή, κός)	positive [aj]
+θεωρία, η 	theory
+θεωρώ	consider, take into account [v]
+θήκη, η 	sheath
+θηλή, η 	nipple
+θηλαστικό, το 	mammal
+θηλειά, η, βρόχος, ο	loop, closed curve
+θηλυκό (-κή/-κιά, -κός)	feminine [aj]
+θόλος, ο 	dome
+θόρυβος, ο, φασαρία, η	noise
+θρησκεία, η 	religion
+θυμάμαι	remember [v]
+θυμός, ο 	anger
+θυμωμένο (-νη, -νος)	angry [aj]
+ιδιαίτερο (-ρη, -ρος)	specific, particular [aj]
+ιδέα, η 	idea
+ιδεόγραμμα, το 	ideogram, glyph
+ίδιο (-ια, -ιος)	same [aj]
+ιδιωτικό (-κή, -κός)	private [aj]
+ιδρώτας, ο 	sweat, perspiration
+ιερό (-ρή, -ρός)	holy, sacred [aj]
+ιερογλυφικό, το 	hieroglyph
+ικανοποίηση, η 	satisfaction
+ικανότητα, η 	ability, capacity
+ιός, ο 	virus
+ίριδα, η 	1. iris (of eye) 2. rainbow colors
+ίσιο (ίσια, ίσιος)	straight [aj]
+ίσο (ίση, ίσος)	equal [aj]
+ισορροπία, η 	balance, equilibrium
+ισοϋψές (-ψής, -ψής)	level, even (on the same level) [aj]
+ιστίο, το 	sail
+ιστορία, η 	history
+ισχυρισμός, ο 	claim, assertion
+ισχύς, η 	power
+ίσως, μπορεί	maybe, perhaps [av]
+καβαλάω	ride [v]
+καθαρό (-ρή, -ρός)	clean [aj]
+κάθε	every, each [aj]
+κάθε, όποιο (όποια, όποιος)	any (no particular one of) [aj]
+κάθομαι	sit [v]
+καθρέφτης, ο 	mirror
+καθυστερώ	delay, retard, tarry [v]
+και	and [cj]
+καιρός, ο 	weather
+καίω	burn [v]
+κακό (-κή, -κός)	1. bad [aj] 2. evil [aj]
+καλάθι, το 	basket
+καλαμπόκι, το 	corn
+κάλιο, το 	potassium
+καλό (-λή, -λός)	good [aj]
+καλοκαίρι, το 	summer
+καλσόν, το 	stocking, hose
+κάλτσα, η 	sock
+καλώ	call, summon [v]
+καλώδιο, το 	cord, cable
+καμινάδα, η 	chimney
+καμπάνα, η 	bell (of church)
+καμπύλη, η 	curve
+κανάλι, το 	canal, channel
+κανόνας, ο 	rule
+κανόνι, το 	cannon
+κανονικό (-κή, -κός), φυσιολογικό (-κή, -κός)	normal, ordinary, regular [aj]
+κανονισμός, ο 	regulation
+καντράν, το 	dial
+κάνω	1. do [v] 2. make, render [v]
+καπάκι, το 	cover
+καπέλο, το 	hat, cap
+καπνός, ο 	1. smoke 2. tobacco
+καπρίτσιο, το 	whim, caprice
+κάρβουνο, το 	coal
+καρδιά, η 	heart
+καρέκλα, η 	chair (the furniture)
+καρότο, το 	carrot
+καρούλι, το 	spool, reel
+καρπός, ο 	1. fruit, nut, product of plant 2. wrist
+καρπούζι, το 	watermelon
+κάρρο, καρρότσι, το 	cart, carriage
+κάρτα, η 	card
+καρφί, το 	nail (the tool)
+κασσίτερος, ο 	tin (metal)
+κατά	against [pr]
+κατά τη διάρκεια	during [av]
+καταιγίδα, η 	storm
+κατακόρυφο (-φη, -φος)	vertical [aj]
+καταλαβαίνω	understand, comprehend [v]
+κατάλληλο (-λη, -λος)	suitable, proper, fit, fitting, appropriate [aj]
+καταναλώνω	consume [v]
+καταπίνω	swallow [v]
+κατάρα, η 	curse
+καταριέμαι	curse, damn [v]
+κατασκήνωση, η 	camp, bivouac
+κατασκευάζω	construct [v]
+κατάσταση, η, στάτους, το	condition, state, status
+κατάστημα, μαγαζί, το 	store, shop
+καταστρέφω	destroy, damage [v]
+καταστροφή, η 	disaster, catastrophe
+καταφύγιο, το 	shelter, refuge
+κατέχω, έχω στην κατοχή μου	own, possess [v]
+κατηγορία, η 	1. category 2. accusation
+κατηγορώ	blame [v]
+κατοικώ, διαμένω	reside, dwell, live [v]
+κατσαρίδα, η 	cockroach, roach
+κατσαρόλα, η 	pot
+κατσίκα, η 	goat
+κάτω	down [av]
+κάτω από	under
+καύσιμο, το 	fuel
+καυτό (-τή, -τός)	hot [aj]
+καφέ (-φετιά/-φέ, -φές/-φέ)	brown [aj]
+καφές, ο 	coffee
+κείτομαι	lie (recline horizontally) [v]
+κέλυφος, το 	shell
+κενό, το 	vacuum
+κέντρο, το 	center, centre
+κέρατο, το 	horn (animal's bone-like growth)
+κέρδος, το 	profit, gain
+κερί, το 	1. candle 2. wax
+κεφάλαιο, το 	1. chapter (main division of book) 2. capital
+κεφάλι, το 	head
+κήπος, ο 	garden
+κιθάρα, η 	guitar
+κιμωλία, η 	chalk
+κίνδυνος, ο 	danger
+κίτρινο (-νη, -νος)	yellow [aj]
+κλέβω	steal [v]
+κλαίω	cry, weep [v]
+κλαδί, το 	branch (of tree)
+κλειδαριά, η 	lock
+κλειδί, το 	key (for operating lock)
+κλείνω	close, shut [v]
+κλειστό (-τή, -τός)	closed, shut [aj]
+κλεψύδρα, η 	hourglass
+κλουβί, το 	cage
+κλωστή, η 	thread, filament
+κλωτσάω	kick [v]
+κόβω	cut [v]
+κοιλάδα, η 	valley
+κοιλία, η 	abdomen
+κοιλιά, η 	belly
+κοιμάμαι	sleep [v]
+κοινό (-νή, -νός)	common [aj]
+κοινό, το, λαός, ο	public, populace, the people
+κοινότητα, η 	community
+κόκκαλο, το 	bone
+κόκκινο (-νη, -νος)	red [aj]
+κόλαση, η 	hell
+κολλάω	adhere, glue [v]
+κολοσσιαίο (-αία, -αίος)	colossal [aj]
+κόλπο, τρικ, το 	trick, chicanery
+κολυμπάω	swim [v]
+κόμβος, ο 	node
+κόμμα, το 	1. comma 2. party (political)
+κομμάτι, το 	piece
+κονσέρβα, η 	can, tin
+κοντά	1. near [av] 2. near, close to [pr]
+κοντινό (-νή, -νός)	near [aj]
+κοντό (-ντή, -ντός)	short (of little length) [aj]
+κοντό παντελόνι, το 	shorts, trunks
+κορδόνι, το, σπάγγος, ο	string
+κόρη, η 	daughter
+κόρη οφθαλμού, η 	pupil (of eye)
+κορίτσι, το 	girl
+κόρνα, η 	horn (one that makes noise when blown)
+κορνίζα, η 	frame (of painting, picture, etc.)
+κορυφή, κορφή, η 	top, peak, summit
+κόσμος, ο 	1. cosmos, world 2. people (many human beings)
+κοτόπουλο, το 	chicken
+κουβάς, ο 	bucket
+κουβέρτα, η 	blanket
+κουδούνι, το 	bell (of house, school, etc.)
+κούκλα, η 	doll, effigy
+κουλτούρα, η 	culture
+κουμπί, το 	button
+κουνάω	shake [v]
+κουνέλι, το 	rabbit
+κουνούπι, το 	mosquito
+κουπί, το 	paddle, oar
+κουπόνι, το 	coupon
+κουρασμένο (-νη, -νος)	tired, weary [aj]
+κουρτίνα, η 	curtain
+κουτάλι, το 	spoon
+κουτί, το 	box
+κράνος, το 	helmet
+κρασί, το 	wine
+κρατάω	hold, grasp [v]
+κρατάω, κατακρατάω	keep, retain [v]
+κρεβάτι, το 	bed
+κρεμάω	hang, suspend, dangle [v]
+κρεμμύδι, το 	onion
+κρίνω	judge [v]
+κρύβω	hide, conceal [v]
+κρύο (κρύα, κρύος)	cold [aj]
+κρύσταλλο, το 	crystal (glass of high quality)
+κρύσταλλος, ο 	crystal (solidified compound)
+κτητικό (-κή, -κός)	possessive [aj]
+κτίριο, το 	building, edifice
+κυβέρνηση, η 	government
+κύβος, ο 	cube
+κύκλος, ο 	1. circle 2. cycle
+κύκλωμα, το 	circuit
+κυλάω	roll [v]
+κύλινδρος, ο 	cylinder
+κύμα, το 	wave
+κυνηγάω	hunt, pursue, chase [v]
+κύριο (-ια, -ιος)	chief, main, primary, principal [aj]
+κύριος, ο 	master, lord
+κώδικας, ο 	code
+κωμικό (-κή, -κός)	comical [aj]
+κώνος, ο 	cone
+λαβίδα, πένσα, η 	tongs
+λαγός, ο 	hare
+λάδι, το 	oil (extracted from living plants)
+λαιμός, ο 	throat, neck
+λαμβάνω	receive [v]
+λάμπα, η 	lamp
+λαμπρός	bright, shiny [aj]
+λάμπω	shine [v]
+λανθασμένο (-νη, -νος)	wrong, incorrect [aj]
+λαός, κόσμος, ο 	people (a people), folk
+λάσπη, η 	mud
+λάχανο, το 	cabbage
+λαχανικά, τα 	vegetables
+λείο (λεία, λείος)	smooth [aj]
+λεκές, ο 	blemish, spot
+λέξη, η 	word
+λεξικό, το 	dictionary
+λεξιλόγιο, το 	vocabulary
+λεπίδα, η 	blade
+λεπτομέρεια, η 	detail
+λεπτό, το 	minute (1/60th of an hour/degree)
+λεπτό (-τή, -τός), ψιλό (-λή, -λός)	thin, slender [aj]
+λεπτόρρευστο (-τη, -τος)	thin (of little viscosity) [aj]
+λέσχη, η 	club, society
+λεφτά, χρήματα, τα 	money
+λέω, αναφέρω	say, tell [v]
+λεωφορείο, το 	bus
+λιβάδι, το 	field (expanse of land), meadow
+λίγα (-γες, -γοι)	few [aj]
+λίγο	little (to a small degree) [av]
+λίγο (-γη, -γος)	little (a small quantity of) [aj]
+λιγότερο (-ρη, -ρος)	less [aj]
+λιμάνι, το 	port
+λίμνη, η 	lake
+λινάρι, το 	flax
+λιοντάρι, το 	lion
+λίπος, το 	fat
+λίστα, η 	list
+λογαριασμός, ο 	1. account (of money) 2. bill, invoice
+λογική, η 	logic
+λόγος, ο, αιτία, η	reason, justification, rationale
+λόγος, ο, ομιλία, η	speech, talk
+λόγος, ο, αναλογία, η	ratio, proportion
+λοξό (-ξή, -ξός)	slanted [aj]
+λουκάνικο, το 	sausage
+λουλούδι, το 	flower
+λουρί, το 	strap
+λόφος, ο 	hill
+λυγισμένο (-νη, -νος)	bent [aj]
+λυκαυγές, το 	twilight (before sunrise)
+λύκος, ο 	wolf
+λυκόφως, το 	twilight (after sunset)
+λύπη, στεναχώρια, η 	sadness
+λυπημένο (-νη, -νος)	sad, unhappy, melancholy [aj]
+λυώνω	melt [v]
+λωρίδα, η 	stripe
+μαγεία, η 	magic, sorcery
+μαγειρεύω	cook [v]
+μάγισσα, η 	witch
+μαγνήτης, ο 	magnet
+μάγος, ο 	sorcerer
+μάγουλο, το 	cheek
+μάζα, η 	1. mass 2. lump, clod, blob
+μαζεύω, συλλέγω	gather, collect [v]
+μαζί	together [av]
+μαθαίνω	learn [v]
+μαϊμού, η 	monkey
+μακρύ (-ριά, -ρύς)	long [aj]
+μακρυά, μακριά	far [av]
+μακρυνό (-νή, -νός)	far [aj]
+μαλακό (-κιά, -κός)	soft, malleable [aj]
+μαλλί, το 	wool
+μαλλιά, τα 	hair (atop one's head, collectively)
+μανιτάρι, το 	mushroom
+μανταρίνι, το 	mandarin, tangerine
+μαντεύω	guess, conjecture [v]
+μαξιλάρι, το 	pillow, cushion
+μαρούλι, το 	lettuce
+μαστός, ο, στήθος, το	breast
+μάτι, το 	eye
+ματς, το 	game, match
+μαύρο (-ρη, -ρος)	black [aj]
+μαχαίρι, το 	knife
+μαχαιρώνω	stab, jab [v]
+με	with (accompanied by) [pr]
+μεγάλο (-λη, -λος)	big, large [aj]
+μεγαλώνω	grow [v]
+μέγεθος, το 	size
+μέγιστο (-τη, -τος)	most (the largest quantity of) [aj]
+μέθοδος, η 	method
+μειονότητα, η 	minority
+μελαγχολία, η 	melancholy
+μελάνη, η 	ink
+μελετάω	study [v]
+μέλι, το 	honey
+μέλισσα, η 	bee
+μέλλον, το 	future (not past or present)
+μέλλοντας, ο 	future (tense)
+μέλος, το 	1. member (of group/organization) 2. limb
+μέντα, η 	mint
+μεντεσές, ο 	hinge
+μένω, παραμένω	remain, stay [v]
+μερίδα, η 	allocation, allotment, portion
+μερόνυχτο, εικοσιτετράωρο, το 	day (24-hour period)
+μέρος, το 	part
+μέσα	1. inside [av] 2. means
+μέσα, μίντια, τα 	media
+μεσάνυχτα, τα 	midnight
+μέση, η 	1. waist 2. middle
+μεσημέρι, το 	noon
+μέσο, ενδιάμεσο, το 	1. middle, in-between 2. average
+μετά	1. after (later than) [av]
+μετά, διά	by means of, via, together with [pr]
+μεταβάλλω	vary [v]
+μεταθέτω	translocate [v]
+μετακινώ, κινώ	move [v]
+μετάλλευμα, το 	mineral, ore
+μέταλλο, το 	metal
+μετανοιώνω	regret [v]
+μετάξι, το 	silk
+μεταφέρω	carry [v]
+μετράω	1. count, enumerate [v] 2. measure [v]
+μετριόφρον (-ρων, -ρων)	modest [aj]
+μέτωπο, το 	forehead
+μηδέν	zero [num]
+μήκος, το 	length
+μήλο, το 	apple
+μήνας, ο 	month
+μήνυμα, το 	message
+μητέρα, η 	mother
+μηχανή, η 	1. engine 2. machine
+μικρό (-ρή, -ρός)	small [aj]
+μικροσκοπικό (-κή, -κός), μικρούτσικο (-κη, -κος)	tiny, minuscule [aj]
+μικροσκόπιο, το 	microscope
+μιλάω	speak, talk [v]
+μιμούμαι	imitate, mimic [v]
+μισό (-σή, -σός)	half [aj]
+μισώ	hate [v]
+μνημονεύω	quote, cite [v]
+μόδα, η 	vogue, trend, fad, fashion
+μόλυβδος, ο, μολύβι, το	lead (metal)
+μολύβι, το 	pencil
+μολύνω	pollute, contaminate [v]
+μοναχικό (-κή, -κός)	lonely [aj]
+μόνιμο (-μη, -μος)	permanent, perpetual [aj]
+μόνο	only, solely [av]
+μόριο, το 	molecule
+μοτέρ, το 	motor
+μοτοσυκλέτα, μηχανή, η 	motorcycle
+μουσική, η 	music
+μουστάρδα, η 	mustard
+μοχλός, ο 	lever
+μπαίνω, εισέρχομαι	enter, go into [v]
+μπάλλα, η 	ball
+μπαλόνι, το 	balloon
+μπάλωμα, το 	patch
+μπαμπού, το 	bamboo
+μπανάνα, η 	banana
+μπαρ, το, παμπ, η	bar, pub
+μπάρα, η 	bar, rod, rail
+μπάσκετ, το 	basketball
+μπαχαρικό, το 	spice, seasoning
+μπέιζμπολ, το 	baseball
+μπιζέλι, το 	pea
+μπιλιάρδο, το 	pool, billiards
+μπίρα, το 	beer
+μπλέ	blue [aj]
+μπογιά, η 	paint, crayon
+μπορώ	can [aux]
+μπουκάλι, το 	bottle
+μπουμπούκι, το 	bud (of flower/leaf)
+μπουτίκ, η 	boutique
+μπράτσο, το 	arm (shoulder to hand)
+μπροστά από	in front of, ahead of [av]
+μπρούντζος, ο 	brass
+μπωλ, το 	bowl
+μυαλό, το 	brain
+μύγα, η 	fly (the insect)
+μυθιστόρημα, το 	fiction
+μύλος, ο 	mill
+μυρμήγκι, το 	ant
+μυρωδιά, η 	smell
+μυς, ο 	muscle
+μυστήριο, το 	mystery
+μυστικό (-κή, -κός)	secret [aj]
+μύτη, η 	nose
+μωβ, βιολετί	purple, violet [aj]
+μωρό, το 	baby, infant
+ναι	yes
+νάτριο, το 	sodium
+νέα, τα 	news, tidings
+νέο (νέα, νέος)	new [aj]
+νέον, το 	neon
+νεαρό (-ρή, -ρός)	young (of little age; having existed/lived for a brief time) [aj]
+νεκρό (-ρή, -ρός)	dead [aj]
+νεράιδα, η 	fairy
+νερό, το 	water
+νεύρο, το 	nerve
+νεφρίτης, ο 	jade
+νεφρό, το 	kidney
+νησί, το 	island
+νόημα, το, έννοια, σημασία, η	concept, meaning
+νόμισμα, το 	coin
+νόμος, ο 	law
+νομός, ο 	county
+νοσοκομείο, το 	hospital
+νότος, ο 	south
+νους, ο 	mind
+ντομάτα, η 	tomato
+ντους, ντουζ, το 	shower
+ντροπή, η 	shame, embarrassment
+νύχι, το 	nail (fingernail)
+νύχτα, η 	night
+ξαφνιάζω	surprise, startle [v]
+ξαφνικό (-κή, -κός)	sudden [aj]
+ξενοδοχείο, το 	hotel, inn
+ξερνάω	vomit [v]
+ξερό (-ρή, -ρός)	dry [aj]
+ξέρω, γνωρίζω	know [v]
+ξεφεύγω	escape, flee from [v]
+ξεχνάω	forget [v]
+ξεχύνομαι	burst [v]
+ξεχωρίζω	distinguish, differentiate [v]
+ξηρός καρπός, ο 	nut (hard-shelled fruit/seed)
+ξύδι, το 	vinegar
+ξύλο, το 	wood (the substance)
+ξυνό (-νή, -νός)	sour [aj]
+ξύνω	sharpen, rub, abrade [v]
+ξυπνητό (-τή, -τός)	awake [aj]
+ξυράφι, το 	razor
+ξυρίζω	shave [v]
+ο	the (masculine) [det]
+οβάλ, το 	oval
+οδηγώ	guide, lead [v]
+οδός, η 	street
+οικογένεια, η 	family
+οικονόμο (-μος, -μος)	frugal, thrifty [aj]
+οικονόμος (-μος)	butler, maid
+οκτώ	eight [num]
+όλο (όλη, όλος)	all [aj]
+ολόκληρο (-ρη, -ρος)	whole, entire, complete [aj]
+ομάδα, η 	1. team (sports) 2. group, crew, squad
+ομίχλη, η 	fog
+όμορφο (-φη, -φος)	beautiful, handsome, good looking [aj]
+ομπρέλλα, η 	umbrella
+ομφαλός, αφαλός, ο 	navel
+όνειρο, το 	dream
+όνομα, το 	name
+όξινο (-νη, -νος)	acidic [aj]
+οξύ, το 	acid
+οξύ (οξεία, οξύς)	sharp, keen, pointy, acute [aj]
+οξυγόνο, το 	oxygen
+όπλο, το 	gun, weapon
+οργανισμός, ο 	1. organism 2. organization
+όργανο, το 	organ
+οργανώνω	organize, organise [v]
+οργάνωση, η 	1. organization 2. sect (religious)
+ορθογώνιο, το 	rectangle
+οριζόντιο (-ια, -ιος)	horizontal [aj]
+όριο, το 	limit
+όρμος, ο 	bay
+όρος, το 	mount (mass of land)
+όρος, ο 	condition, term, provision
+οσμή, η 	odor
+οτι	that (complementizer) [cj]
+ότι	whatever [aj]
+ουδέτερο (-ρη, -ρος)	neuter [aj]
+ουρά, η 	tail
+ουράνιο τόξο, το 	rainbow
+ουρανός, ο 	sky, heaven, celestial realm
+όφις, ο 	serpent
+όχημα, το 	vehicle
+όχι	no
+όψη, η 	face, appearance
+πάγος, ο 	ice
+παγίδα, η 	trap
+παγωμένο (-νη, -νος)	chilly, frigid [aj]
+παγώνω	freeze [v]
+παθητική, η 	passive (voice)
+παιδί, το 	child
+παίζω	1. play, recreate, frolic [v] 2. play (musical instrument) [v]
+παινεύω	praise, compliment, laud [v]
+παίρνω	take [v]
+παιχνίδι, το 	1. game 2. toy
+παλάμη, η 	palm (of hand)
+παλεύω	wrestle [v]
+πάλι, ξανα-	again, re- [av]
+παλίρροια, η 	tide
+παλιό (-ιά, -ιός)	old (existing for a long time) [aj]
+παλτό, το 	coat
+πανί, το 	cloth
+πανεπιστήμιο, το 	university
+πανηγυρίζω	celebrate, rejoice [v]
+πάντα	always [av]
+παντελόνι, το 	pants, trousers
+πάνω	above, over [av]
+πάνω, άνω	up [av]
+πανωφόρι, το 	jacket
+παπάς, ιερεύς, ο 	priest, clergyman
+παπούτσι, το 	shoe
+παράδειγμα, το 	example
+παράδεισος, ο 	paradise
+παραδέχομαι, ομολογώ	admit, confess [v]
+παράδοση, η 	1. submission, surrender 2. tradition
+παράθυρο, το 	window
+παραιτούμαι	resign [v]
+παράλληλο (-λη, -λος)	parallel [aj]
+παράξενο (-νη, -νος), περίεργο (-γη, -γος)	strange, weird, unusual, peculiar [aj]
+παρακείμενος, ο 	perfect (tense)
+παρατατικός, ο 	imperfect (tense)
+παρατηρώ	1. notice, observe [v] 2. guard, monitor [v]
+παρελθόν, η 	past (not present or future)
+παρεμποδίζω, μπλέκομαι	interfere [v]
+πάρκο, το 	park
+παρόμοιο (-οια, -οιος), όμοιο (-οια, -οιος)	similar [aj]
+παρόν, το 	present (the now)
+παρόν (-ρούσα, -ρών)	present (not past or future) [aj]
+πατάκι, κιλίμι, το 	rug, mat
+πατάτα, η 	potato
+πατάω	step on (push or press on something) [v]
+πατέρας, ο 	father
+πάτος, ο, κάτω μέρος, το	bottom
+πάτωμα, το 	floor
+πάχος, το 	1. thickness (of an object) 2. fat (of an animal)
+παχουλό (-λή, -λός)	chubby, plump [aj]
+παχύ (-χιά, -χύς)	thick, fat [aj]
+παχύρρευστο (-τη, -τος)	viscous, thick [aj]
+πεθαίνω	die [v]
+πείραμα, το 	experiment
+πειρασμός, ο, δέλεαρ, το	temptation
+πέντε	five [num]
+πέπλο, το 	veil
+πεπόνι, το 	melon
+πέρα	1. away [av] 2. beyond, farther than, exceeding [av]
+περηφάνεια, η 	pride (state of being proud)
+περιβάλλον, το 	environment, surroundings
+περιγράφω	describe [v]
+περιέχω	contain [v]
+περικάρπιο, το 	pod (seed pod)
+περιμένω	wait (for), await [v]
+περιοδικό, το 	magazine, journal
+περιοδικό (-κή, -κός)	periodic [aj]
+περίοδος, η 	period
+περιορίζω	restrain, inhibit, hold back [v]
+περιοχή, η 	region, area
+περιπλανούμαι, περιπλανώμαι	drift, wander [v]
+περισσότερο (-ρη, -ρος)	more [aj]
+περπατάω	walk [v]
+πεταλούδα, η 	butterfly
+πετάω	1. fly [v] 2. throw, toss [v]
+πέτρα, η 	stone
+πετράδι, το 	jewel, gem
+πετρέλαιο, το 	oil (crude), petroleum
+πετσέτα, η 	towel
+πετυχαίνω, επιτυγχάνω	succeed [v]
+πεύκο, το 	pine
+πηγαίνω, πάω	go [v]
+πηγή, η 	1. spring of water 2. source
+πηγούνι, το 	chin
+πηδάλιο, το 	pedal
+πηδάω	jump, leap [v]
+πηλός, ο 	clay
+πηνίο, το 	coil
+πηρούνι, το 	fork
+πιάνο, το 	piano
+πιάνω	catch (stop the motion) [v]
+πιάτο, το 	dish, plate
+πιέζω	press (apply pressure) [v]
+πιθανό (-νή, -νός)	probable [aj]
+πιθανώς	probably [av]
+πίθηκος, ο 	ape
+πικρό (-ρή, ρός)	bitter [aj]
+πίνω	drink [v]
+πιο	more [av]
+πιπέρι, το 	pepper (spice)
+πιπεριά, η 	pepper (hot/sweet/bell pepper)
+πιπερόρριζα, η 	ginger
+πίσσα, η 	tar
+πιστεύω	believe [v]
+πιστό (-τή, -τός)	loyal [aj]
+πίστωση, η 	credit (permission to borrow money)
+πίσω	back [av]
+πίσω από	behind
+πίσω μέρος	rear, back part of
+πίτσα, η 	pizza
+πλάγιο (-για, -γιος), επικλινές (-νής, -νής)	sloped, inclined, declined (not horizontal) [aj]
+πλανήτης, ο 	planet
+πλαστικό, νάυλον, το 	plastic
+πλάτη, η 	back (of body)
+πλάτος, φάρδος, το 	width
+πλατύ (-τιά, -τύς), φαρδύ (-διά, δύς)	wide, broad (of space between objects) [aj]
+πλειοψηφία, η 	majority
+πλένω	wash [v]
+πλευρά, η 	side, flank, lateral area
+πληγή, η 	wound
+πληγώνω, τραυματίζω	injure, harm [v]
+πλημμύρα, η 	flood, deluge
+πληροφορία, η 	information
+πληρώνω	pay [v]
+πλοίο, καράβι, βαπόρι, το 	ship
+πλούσιο (-ια, -ιος)	rich, wealthy [aj]
+πνεύμα, το 	spirit
+πνεύμονας, ο 	lung
+πνίγω	drown [v]
+ποδήλατο, το 	bicycle
+πόδι, το 	1. foot 2. leg
+ποδιά, η 	apron
+ποδόσφαιρο, το 	soccer
+ποίημα, το 	poem
+πόλεμος, ο 	war
+πόλη, η 	city
+πολικότητα, η 	polarity
+πολιτεία, η 	state (political entity)
+πολιτική, η 	politics
+πολιτισμός, ο 	civilization
+πολλά (-λλές, -λλοί)	many (a large number of) [aj]
+πολλαπλασιάζω	multiply [v]
+πολύ	much, very [av]
+πολύ (πολλή, πολύς)	much (a large quantity of) [aj]
+πολύπλοκο (-κη, -κος)	complex [aj]
+πόνος, ο 	pain
+ποντίκι, το 	mouse
+πορεία, η 	route, path, course
+πόρτα, η 	door
+πορτοκάλι, το 	orange (tree/fruit)
+πορτοκαλί	orange (the color) [aj]
+ποσότητα, η 	quantity
+ποτάμι, το, ποταμός, ο	river
+πότε	when (interrogative) [av]
+ποτέ	1. ever (at any time) [av] 2. never [av]
+που	that (complementizer) [cj]
+πού	where (interrogative) [av]
+πουκάμισο, το 	shirt
+πουλάω	sell [v]
+πουλί, το 	bird
+πραγματικό (-κή, -κός)	real, actual [aj]
+πρακτορείο, το 	agency, bureau
+πράξη, η 	act, deed
+πράσινο (-νη, -νος)	green [aj]
+πρέσβυς, ο/η 	ambassador
+πρήξιμο, φούσκωμα, το 	swelling, inflation
+πριν	before [av]
+πριν, προ	ago, before (in the past) [av]
+πριόνι, το 	saw (the tool)
+πρόβατο, το 	sheep
+προβλέπω, περιμένω	predict, expect, anticipate [v]
+πρόγραμμα, το 	program, programme
+πρόεδρος, ο/η 	president
+προειδοποιώ	warn [v]
+προέλευση, η 	origin
+προηγούμενο (-νη, -νος)	prior, preceding, previous [aj]
+προκαλώ	cause [v]
+πρόοδος, η 	progress, advancement
+προορισμός, ο 	destination
+προς	to, towards, toward [pr]
+προς τα μπρος	forward, ahead [av]
+προσβολή, η 	insult
+προσεύχομαι	pray [v]
+προσθέτω	add, append [v]
+προσκαλώ	invite [v]
+προσοχή, η 	attention, caution, prudence, carefulness
+προσποιούμαι	pretend, act, feign [v]
+προστατεύω	protect [v]
+πρόσφατα	recently [av]
+πρόσφατο (-τη, -τος)	recent [aj]
+προσφέρω	offer [v]
+προσφιλές (-λής, -λής)	dear, precious, cherished [aj]
+προσφορά, η 	offer
+πρόσωπο, το 	face
+προσωρινό (-νή, -νός), εφήμερο (-ρη, -ρος)	temporary, transient, ephemeral [aj]
+πρόταση, η 	sentence (of words)
+προτείνω	suggest, propose [v]
+προτίθεμαι	intend, mean to [v]
+προτιμώ, είμαι υπέρ	favor, prefer [v]
+προτού	earlier than [av]
+πρωθυπουργός, ο/η 	prime minister
+πρωί, το 	morning
+πρωτότυπο (-πη, -πος)	novel, original (non-imitative) [aj]
+πρώιμο (-μη, -μος)	early, premature [aj/av]
+πυκνό (-νή, -νός)	dense [aj]
+πυκνότητα, η 	density
+πυραμίδα, η 	pyramid
+πυρετός, ο 	fever
+πύραυλος, ο 	rocket
+πύργος, ο 	tower
+πως	that (complementizer) [cj]
+πώς	how [av]
+ράβω	sew [v]
+ραδιόφωνο, το 	radio (apparatus, wireless set)
+ρακέττα, η 	racket, racquet
+ράφι, το 	shelf
+ραχοκοκκαλιά, σπονδυλική στήλη, η 	spine, backbone
+ρέω	flow [v]
+ρηχό (-χή, -χός)	shallow [aj]
+ρίζα, η 	root
+ρολόι, το 	clock, watch
+ρόλος, ο 	role
+ρόπαλο, το 	club, cudgel
+ρουφάω	suck [v]
+ρούχο, το 	garment
+ρύζι, το 	rice
+ρυθμός, ο 	rhythm
+ρυτίδα, η 	wrinkle, crease
+ρωτάω	ask, inquire [v]
+σάκος, ο 	sack
+σαλάτα, η 	salad
+σαν	like, similar to [av]
+σανίδα, η 	board (piece of wood)
+σάντουϊτς, το 	sandwich
+σαπίζω	rot, decay [v]
+σαπούνι, το 	soap
+σάρκα, η 	meat, flesh
+σαφές (-φής, -φής)	clear, plain [aj]
+σαύρα, η 	lizard
+σβήνω	erase, delete [v]
+σέβομαι	respect, venerate, esteem [v]
+σειρά, η 	series
+σεισμός, ο 	earthquake
+σελίδα, η 	page
+σεντόνι, το 	sheet (of cloth, covering a bed)
+σεξ, το 	sex (copulation)
+σήμα, το 	sign
+σημάδι, το 	mark
+σημαία, η 	flag, banner
+σημαντικό (-κή, -κός)	important [aj]
+σημείωση, η 	note, annotation
+σήμερα	today [av]
+σιγά, αργά	slowly [av]
+σιγανό (-νή, -νός), εξασθενημένο (-νη, νος)	quiet, soft, faint (of little sonic intensity) [aj]
+σίδερο, το 	iron
+σιδηρόδρομος, ο 	railroad
+σίτα, η 	screen, mesh
+σιτάρι, στάρι, το 	wheat
+σιφώνι, το 	drain
+σιωπηλό (-λή, -λός)	silent [aj]
+σκίζω	tear, rip [v]
+σκίουρος, ο 	squirrel
+σκάβω	dig [v]
+σκάκι, το 	chess
+σκάλα, η 	ladder, stair, stairs
+σκαρφαλώνω	climb [v]
+σκελετός, ο 	1. skeleton 2. frame(of building, glasses, etc.)
+σκέφτομαι	think, ponder [v]
+σκέψη, η 	thought
+σκι, το 	ski
+σκιά, η, ίσκιος, ο	shadow, shade
+σκλάβα, η, σκλάβος, ο	slave
+σκληρό (-ρή, -ρός)	hard, firm, resistant to pressure [aj]
+σκόνη, η 	dust, powder
+σκορ, το 	score (in sports, games)
+σκόρδο, το 	garlic
+σκορπίζω	spill (drop particles) [v]
+σκοτεινό (-νή, -νός)	dark, dim [aj]
+σκοτώνω	kill [v]
+σκουλήκι, το 	worm
+σκούπα, η 	broom
+σκουπίδι, το 	garbage, trash, rubbish
+σκουπίζω	sweep [v]
+σκουριά, η 	rust
+σκύλος, ο 	dog
+σμπρώχνω	push (press on something) [v]
+σοβαρό (-ρή, -ρός)	serious, earnest, grave [aj]
+σόγια, η 	soya, soybean
+σοκολάτα, η 	chocolate
+σούπα, η 	soup
+σουσάμι, το 	sesame
+σοφία, η 	wisdom
+σοφίτα, η 	attic, garret
+σοφό (-φή, -φός)	wise [aj]
+σπάζω	break (into pieces) [v]
+σπαθί, το 	sword
+σπανάκι, το 	spinach
+σπάνια	seldom, rarely [av]
+σπείρα, η 	spiral, whorl
+σπηλιά, η 	cave
+σπηρούνι, το 	spear, lance
+σπίρτο, το 	match (little fire-stick)
+σπίτι, το 	house, home
+σπυρί, το 	grain
+σπόρος, ο 	seed
+στήθος, το 	1. chest (upper front of torso) 2. breast 3. white meat of chicken
+σταγόνα, η 	drop (of liquid)
+σταδιακό (-κή, -κός)	gradual [aj]
+σταθερό (-ρή, -ρός)	constant, stable [aj]
+σταθμός, ο 	station, depot
+σταματάω	cease, stop, quit [v]
+σταυρός, ο 	cross
+σταφύλι, το 	grape
+στάχτη, η 	ash
+στέγη, η 	roof
+στέκομαι	stand [v]
+στέλνω	send, dispatch, transmit [v]
+στεναχώρια, η 	sorrow, uneasiness
+στενό (-νή, -νός)	narrow [aj]
+στερεό, το 	solid
+στερεό (-ρεή/-ρεά, -ρεός)	solid [aj]
+στέρεο, το 	stereo system
+στεριά, η 	earth (firm ground, not water or air)
+στερούμαι	lack [v]
+στιγμή, η 	moment, instant
+στοιχείο, το 	element
+στολίδι, το 	ornament, decoration
+στόμα, το 	mouth
+στομάχι, το 	stomach
+στόμιο, το 	orifice
+στοχεύω	aim [v]
+στρατιώτης, ο 	soldier
+στρατιωτικό (-κή, -κός)	military [aj]
+στρατός, ο 	army
+στρώμα, το 	layer
+στυλό, το 	pen
+στύλος, ο 	post (pole anchored in ground)
+συγκεντρωμένο (-νη, -νος)	concentrated, not distracted [aj]
+συγκεχυμένο (-νη, -νος)	obscure [aj]
+συγκρίνω	compare [v]
+συγχωρώ	forgive, pardon [v]
+συζητάω	discuss, talk about [v]
+σύζυγος, ο/η 	husband, wife, spouse
+σύκο, το 	fig
+συκώτι, το 	liver
+συλλαβή, η 	syllable
+συλλαμβάνω, πιάνω	capture, seize [v]
+συλλογισμός, ο 	reasoning, rational thought
+συμβαίνω	happen, occur [v]
+συμβιβασμός, ο 	compromise
+συμβόλαιο, το 	contract
+σύμβολο, το 	symbol, sign, token
+συμβουλή, η 	advice
+συμπαθώ, λυπάμαι	pity, feel compassion [v]
+σύμπαν, το 	universe
+συμπεριφορά, η 	behavior, conduct
+συμπυκνωμένο (-νη, -νος)	concentrated, with increased density [aj]
+συμφραζόμενα, τα 	context (in language, meaning)
+σύμφωνο, το 	consonant
+συμφωνώ	agree [v]
+συν	plus [cj]
+συναντάω	meet, encounter (come across) [v]
+σύνδεσμος, ο 	connection, joint, junction
+συνδετήρας, ο 	staple
+συνειδητό (-τή, τός)	conscious, aware [aj]
+συνέπεια, η 	consequence
+συνεργάζομαι	cooperate, collaborate [v]
+συνεχίζω	continue, keep on [v]
+συνήθειο, το, συνήθεια, η	habit, custom
+συνηθισμένο (-νη, -νος)	usual [aj]
+συνθλίβω	crush [v]
+σύννεφο, το 	cloud
+σύνολο, το 	1. set (math) 2. total, sum, aggregate
+σύνορο, το 	border, boundary
+σύνταγμα, το 	constitution (charter of an organization)
+σύντομα	soon [av]
+σύντομο (-μη, -μος)	short (of little duration), brief [aj]
+σύριγγα, η 	syringe
+σύρμα, το 	wire
+συστέλλομαι, μαζεύω	shrink, contract [v]
+σύστημα, το 	system
+συσχετίζω	associate [v]
+συσχετισμός, ο 	association
+συχνά	frequently, often [av]
+συχνότητα, η 	frequency, rate
+σφαίρα, η 	1. sphere 2. bullet
+σφήνα, η 	wedge
+σφιχτό (-τή, -τός)	taut, tight, tense, strained [aj]
+σφουγγάρι, το 	sponge
+σφυρί, το 	hammer
+σφυρίζω	whistle [v]
+σχέδιο, το 	plan, design
+σχέδιο, μοτίβο, το 	pattern
+σχεδόν	almost, nearly [av]
+σχέση, η 	relationship
+σχετικά, αναφορικά	about [av]
+σχήμα, το 	form, shape
+σχισμή, η 	crack, fissure
+σχοινί, το 	rope
+σχολείο, το 	school
+σχόλιο, το 	comment
+σώζω	save, rescue [v]
+σωλήνας, ο 	pipe, tube
+σώμα, το 	body
+σωρός, ο 	pile, heap
+σωστό (-τή, -τός)	right, correct [aj]
+ταβάνι, το 	ceiling
+ταβέρνα, η 	tavern
+ταινία, η 	band, tape
+ταίριασμα, το 	match (suitable association of things)
+ταλέντο, προσόν, το, δεξιοτεχνία, η	talent, skill, knack
+τάξη, σειρά, η 	order
+ταξίδι, το 	journey, trip, voyage
+ταξινόμηση, η 	classification
+ταπεινό (-νή, -νός)	humble [aj]
+ταραχή, η 	riot
+τάση, κλίση, η 	tendency, propensity, inclination
+ταύρος, ο 	bull
+ταυτόσημο (-μη, -μος)	identical [aj]
+ταχυδρομώ	mail [v]
+ταχύτητα, η 	speed, velocity
+τελειώνω	end, conclude, finish [v]
+τελετή, ιεροτελεστία, η 	ritual, rite, ceremony
+τελευταίο (-αία, -αίος)	last, final [aj]
+τελικά	eventually [av]
+τέννις, το 	tennis
+τεντώνω	stretch, extend [v]
+τεράστιο (-ια, -ιος)	huge, enormous, humongous [aj]
+τέσσερα	four [num]
+τετράγωνο, το 	square
+τέχνη, η 	art
+τεχνητό (-τή, -τός)	artificial [aj]
+τεχνική, η 	technique
+τεχνολογία, η 	technology
+τζάκι, το 	fireplace, hearth
+τηγάνι, το 	pan
+τηλεσκόπιο, το 	telescope
+τηλεόραση, η 	television
+τηλέφωνο, το 	telephone, phone
+τίγρη, η, τίγρης, ο	tiger (Felis tigris)
+τιμή, η, κόστος, το	price, cost
+τιμωρώ	punish [v]
+τμήμα, το, τομέας, ο	section, segment
+το	the (neuter) [det]
+το πιο	most (to the largest degree) [av]
+το πολύ	at most, only, just, merely [av]
+τοίχος, ο 	wall
+τόνος, ο 	tone, pitch
+τόξο, το 	bow
+τοποθετώ	place [v]
+τόπος, ο, τοποθεσία, η	place, location
+τουαλέττα, η 	toilet, water closet
+τούβλο, το 	brick
+τουλάχιστον	at least [av]
+τουφέκι, το 	gun
+τραβάω	pull [v]
+τραγουδάω	sing [v]
+τράπεζα, η 	bank (the financial institution)
+τραπέζι, το 	table (the furniture)
+τρελό (-λή, -λός)	insane, crazy, mad [aj]
+τρένο, το 	train
+τρέχω	run [v]
+τρία	three [num]
+τριανταφυλλιά, η 	rosebush
+τριαντάφυλλο, το 	rose
+τρίβω	grind, rub, abrade [v]
+τρίγωνο, το 	triangle
+τρίχα, η 	hair (a single strand)
+τρόπος, ο 	manner, way
+τροφή, η 	food
+τροχαλία, η 	pulley
+τροχός, ο 	wheel
+τρύπα, το 	hole
+τρυπάνι, το 	drill
+τρύπιο (-πια, -πιος)	hollow [aj]
+τρώω	eat [v]
+τσάι, το 	tea
+τσάντα, η 	bag
+τσεκούρι, το 	axe
+τσέπη, η 	pocket
+τσιγάρο, το 	cigarette
+τσιγκούνης (-να), σπαγγορραμένος (-νη)	stingy [aj]
+τσουγκράνα, η 	rake
+τυλίγω	wrap [v]
+τύμπανο, το 	drum
+τυπώνω	print [v]
+τυρί, το 	cheese
+τυφώνας, ο 	tornado
+τύχη, η 	luck, chance
+τώρα	now [av]
+υγιές (-ής, -ής)	healthy [aj]
+υγρό, το 	liquid
+υγρό (-ρή, -ρός)	wet, liquid [aj]
+ύλη, η 	matter (physics)
+υλικό, το 	material, substance
+υπακούω	obey [v]
+υπάρχω	exist, am [v]
+υπέρ, υπέρ το δέον	too much, excessively [av]
+υπέρβαρο (-ρη, -ρος)	obese [aj]
+υπεύθυνο (-νη, -νος)	responsible, in charge [aj]
+υπευθυνότητα, η 	responsibility, liability, accountability
+υπηρετώ	serve [v]
+υπνοδωμάτιο, το, κάμαρα, κρεβατοκάμαρα, η	bedroom
+υπόγειο, το 	cellar, basement
+υπογραμμίζω, δίνω έμφαση	emphasize, emphasise, accentuate, stress [v]
+υποθέτω	suppose, presume [v]
+υπολογίζω	calculate, compute, reckon [v]
+υπολογιστής, ο 	computer
+υπόλοιπο, το 	rest of, remainder
+υπομονή, η 	patience
+υποστηρίζω	support [v]
+υπόσχεση, η 	promise , pledge
+υφαίνω	weave [v]
+ύφασμα, το 	fabric
+ύψος, το 	height
+φαγητό, το 	meal
+φαίνομαι, μοιάζω	seem, appear to be [v]
+φάκελος, ο 	envelope
+φακή, η 	lentil
+φακός, ο 	lens
+φάλαινα, η 	whale
+φαντάζομαι	imagine [v]
+φάντασμα, το 	ghost
+φάρμακο, το 	medicine (substance)
+φασόλι, το 	bean
+φεγγάρι, το 	moon
+φελός, ο 	cork
+φέρνω, φέρω	bring [v]
+φεύγω	leave, depart [v]
+φθινόπωρο, το 	fall, autumn
+φίδι, το 	snake
+φιλάω	kiss [v]
+φιλεύσπλαχνο (-νη, -νος)	charitable [aj]
+φίλη, φίλος	friend
+φιλί, το 	kiss
+φλέβα, η 	vein
+φλυτζάνι, το 	cup
+φοβάμαι	fear, be afraid of [v]
+φορά, η 	iteration, time, instance
+φόρμα, η 	uniform
+φόρος, ο 	tax
+φορτηγό, το 	truck, lorry
+φορτίο, το 	load, burden
+φουρνιά, η 	batch
+φούρνος, ο 	oven
+φούστα, η 	skirt
+φούτμπωλ (αμερικάνικο), το 	football (American)
+φράχτης, ο 	fence
+φρένο, το 	brake
+φρούτο, το 	fruit
+φρύδι, ο 	eyebrow
+φτάνω	arrive, reach, extend (as far as) [v]
+φταρνίζομαι	sneeze [v]
+φτέρνα, η 	heel
+φτερό, το 	feather
+φτερούγα, η 	wing (of bird)
+φτηνό (-νή, -νός)	cheap, inexpensive [aj]
+φτυάρι, το 	shovel
+φτύνω	spit [v]
+φτωχό (-χή/-χιά, -χός)	poor, impoverished [aj]
+φυλακή, η 	prison, jail
+φυλή, η 	race (group of people)
+φύλλο, το 	1. leaf 2. sheet (of paper, metal, but not cloth)
+φύλλο, λεπτό στρώμα, το 	film (very thin layer)
+φύλο, το 	sex (gender)
+φυσάω	blow [v]
+φύση, η 	nature (the non-artificial world)
+φυστίκι, το 	peanut
+φυτό, το 	plant
+φωλιά, η 	nest, den, lair
+φωνάζω	cry out, shout, yell [v]
+φωνή, η 	voice
+φωνήεν, το 	vowel
+φως, το 	light
+φωτιά, η 	fire
+φωτογραφία, η 	picture, photograph
+χίλια	thousand [num]
+χαλάζι, το 	hail
+χαλαζίας, ο 	quartz
+χαλαρό (-ρή, -ρός)	loose, baggy, slack [aj]
+χαλινάρι, το 	harness
+χαλκός, ο 	copper
+χαμηλό (-λή, -λός)	low (not tall; of little height) [aj]
+χαμογελάω	smile [v]
+χάνω	misplace, lose [v], lose [vt]
+χαρακτηριστικό, το 	quality, trait, attribute, characteristic
+χαρούμενο (-νη, -νος)	happy [aj]
+χάρτης, ο 	map
+χαρτί, το 	paper
+χείλος, το 	lip
+χειμώνας, ο 	winter
+χειρονομώ	gesture [v]
+χελώνα, η 	turtle, tortoise
+χέρι, το 	hand, arm
+χερούλι, το 	handle, knob
+χημεία, η 	chemistry
+χημική ουσία, η 	chemical
+χθες	yesterday [av]
+χιόνι, το 	snow
+χοίρος, ο 	swine
+χόκεϋ, το 	hockey
+χορεύω	dance [v]
+χουρμάς, ο 	date (tree/fruit)
+χρειάζομαι	need, require [v]
+χρέος, το 	debt, obligation [to pay]
+χρέωση, η 	debit, charge
+χρησιμοποιώ	use, utilize, utilise [v]
+χρονικό, το 	chronicle
+χρόνος, ο 	1. time (the 4th universal dimension) 2. year
+χρυσός, ο 	gold
+χρώμα, το 	color
+χτένα, η 	comb
+χτίζω	build [v]
+χτυπάω	hit, strike, beat, batter [v]
+χτύπημα, το 	stroke, jolt, blow [of force]
+χυμός, ο 	juice
+χύνω	pour (cause to flow), spill (drop liquid, but not solid) [v]
+χώμα, το 	soil
+χώρα, η 	country
+χωριό, το 	village
+χωρίς, δίχως	without, lacking [av]
+χωριστά	apart, separately [av]
+χώρος, ο 	space (the one with three dimensions)
+ψαλίδι, το 	scissors
+ψαλιδίζω	trim, prune [v]
+ψάρι, το 	fish
+ψέμμα, το 	lie (falsehood)
+ψεύδομαι, λέω ψέμματα	lie (utter a falsehood) [v]
+ψεύτικο (-κη, -κος), λάθος	false, untrue [aj]
+ψηλό (-λή, -λός)	high, tall [aj]
+ψήνω	bake [v]
+ψηφίζω	vote [v]
+ψηφίο, το 	digit, numeral
+ψυχή, η 	soul, psyche
+ψυχρό (-ρή, -ρός)	cool [aj]
+ψωμί, το 	bread
+ωθώ	drive, impel, propel [v]
+ωκεανός, ο 	ocean
+ώμος, ο 	shoulder
+ώρα, η 	hour
+ωραίο (-αία, -αίος)	nice, good looking, handsome [aj]
+ώριμο (-μη, -μος)	1. ripe [aj] 2. mature [aj]
